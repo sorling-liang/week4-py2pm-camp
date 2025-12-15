@@ -55,8 +55,8 @@ print(ans)
 
 def greetings():
     print("Hello")
-print("My name is Ms Liang")
-print("I love to swim")
+    print("My name is Ms Liang")
+    print("I love to swim")
 
 greetings() # call a function
 greetings() # call a function

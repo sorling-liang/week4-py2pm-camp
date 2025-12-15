@@ -54,9 +54,7 @@ print(ans)
 # Task 5:
 
 def greetings():
-    print("hello")
-    print("my name is Ms Liang")
-    print("I love to swim")
+    print("Hello")
 
 ########################################################################
 # Task 6:

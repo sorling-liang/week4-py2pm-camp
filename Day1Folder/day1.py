@@ -65,6 +65,7 @@ greetings() # call a function
 # Task 6:
 
 def intro(yourname):
+    print("Nice to meet you, " + yourname)
 
 ########################################################################
 # Task 7:

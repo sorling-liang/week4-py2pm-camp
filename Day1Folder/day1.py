@@ -45,8 +45,8 @@ print( breakfast)
 # 1. Create a variable called **var1**. Assign a number to it
 # 2. Create a variable called **var2**. Assign a number to it.
 # 3. Print out the sum of these 2 variables
-var1 = 20
-var2 = 26
+var1 = "20"
+var2 = "26"
 ans = var1 + var2
 print(ans)
 

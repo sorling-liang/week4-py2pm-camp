@@ -16,7 +16,7 @@ print("if I have $2000, I will bring my parents out for a lunch.")
 # 1. create 3 variables to hold 3 animals
 # 2. print out the variable values
 
-break = "tiger"
+mypet = "tiger"
 zoo_2 = "panda"
 zoo_3 = "capybara"
 print( zoo_1)

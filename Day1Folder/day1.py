@@ -10,6 +10,11 @@ print("Goodbye")
 print("if I have $2000, I will bring my parents out for a lunch.")
 
 
+# Task 3: Variable Assignments
+## Continue the below in day1.py
+
+# 1. create 3 variables to hold 3 animals
+# 2. print out the variable values
 
 
 

@@ -65,7 +65,7 @@ greetings() # call a function
 # Task 6:
 
 def intro(yourname):
-    print("Nice to meet you, " + yourname)
+    print("Nice to meet you, " + yourname) # whatever is ignore
 
 intro("George")
 intro("Betty")

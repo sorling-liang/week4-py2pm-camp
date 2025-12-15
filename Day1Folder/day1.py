@@ -1,7 +1,7 @@
 # Write all your codes for Day 1 here.
 # COMMENT out the previous task before going on to the next task
 
-print('hello from day1 I am Ms Liang')
+print("hello from day1 I am Ms Liang")
 print("I love to swim.")
 print("I like eating burgers!")
 print("Goodbye")

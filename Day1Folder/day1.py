@@ -3,7 +3,7 @@
 print("hello from day1 I am Ms Liang")
 print("I love to swim.")
 print("Hello")
-print("")
+print("Goodbye")
 
 
 

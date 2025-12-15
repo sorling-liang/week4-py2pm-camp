@@ -39,8 +39,12 @@ print( breakfast)
 
 ########################################################################
 # Task 4:
+# Task 4: Math Calculator
+## Continue the below in day1.py
 
-
+# 1. Create a variable called **var1**. Assign a number to it
+# 2. Create a variable called **var2**. Assign a number to it.
+# 3. Print out the sum of these 2 variables
 
 ########################################################################
 # Task 5:

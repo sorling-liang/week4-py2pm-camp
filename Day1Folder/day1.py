@@ -2,6 +2,9 @@
 # COMMENT out the previous task before going on to the next task
 print("hello from day1 I am Ms Liang")
 print("this is second line")
+
+
+
 ########################################################################
 # Task 1:
 

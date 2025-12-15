@@ -47,7 +47,7 @@ print( breakfast)
 # 3. Print out the sum of these 2 variables
 var1 = "20"
 var2 = "26"
-ans = var1 + var2
+ans = var1 * var2
 print(ans)
 
 ########################################################################

@@ -60,10 +60,11 @@ def greetings():
 
 greetings() # call a function
 greetings() # call a function
+
 ########################################################################
 # Task 6:
 
-
+def intro(yourname):
 
 ########################################################################
 # Task 7:

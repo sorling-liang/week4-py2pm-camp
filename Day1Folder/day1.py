@@ -69,6 +69,7 @@ def intro(yourname):
 
 intro("George")
 intro("Betty")
+print(yourname)
 
 ########################################################################
 # Task 7:

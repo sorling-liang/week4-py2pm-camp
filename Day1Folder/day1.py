@@ -58,7 +58,7 @@ def greetings():
 print("My name is Ms Liang")
 print("I love to swim")
 
-greetings()
+greetings() # call a function
 ########################################################################
 # Task 6:
 

@@ -59,6 +59,7 @@ def greetings():
     print("I love to swim")
 
 greetings() # call a function
+greetings() # call a function
 ########################################################################
 # Task 6:
 

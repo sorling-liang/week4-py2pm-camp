@@ -7,7 +7,7 @@ print("I like eating burgers!")
 print("Goodbye")
 
 
-print("if i have $2000, I will bring my parents out for a lunch.")
+print("if I have $2000, I will bring my parents out for a lunch.")
 
 
 

@@ -13,7 +13,7 @@ print("hello from day2")
 for count in range(10):
     print(count)
 
-for letter in "pretty lady":
+for letter in "ladyGaga":
     print(letter)
 
 ########################################################################

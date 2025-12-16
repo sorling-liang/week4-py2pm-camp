@@ -13,7 +13,8 @@ print("hello from day2")
 for count in range(99):
     print(count)
 
-
+for letter in "pretty lady":
+    print(letter)
 
 ########################################################################
 # Task 3:

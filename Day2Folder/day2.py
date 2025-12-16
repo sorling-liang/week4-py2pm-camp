@@ -10,7 +10,7 @@ print("hello from day2")
 ########################################################################
 # Task 2:
 
-for count in range(99):
+for count in range(10):
     print(count)
 
 for letter in "pretty lady":

@@ -20,7 +20,7 @@ for letter in "g.dragon":
 
 name = "ADAM"
 for letter in name:
-    print("Give me a " + letter)
+    print("Give me a " + letter + "!")
 
 ########################################################################
 # Task 3:

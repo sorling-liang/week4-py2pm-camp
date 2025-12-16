@@ -34,7 +34,7 @@ for count in range(1, 11):
 for count in range(2, 99, 2):
     print(count)
 
-for count in range(2, 99, -1):
+for count in range(100, 1, -1):
     print(count)
 
 ########################################################################

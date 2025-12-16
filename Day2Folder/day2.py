@@ -17,6 +17,10 @@ for count in range(10):
 for letter in "g.dragon":
     print(letter)
 
+
+name = "ADAM"
+
+
 ########################################################################
 # Task 3:
 

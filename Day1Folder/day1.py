@@ -81,6 +81,8 @@ def addition(num1, num2):
 addition(12, 9)
 
 # division
+def division(num1, num2):
+    
 # multiplication
 # subtraction
  

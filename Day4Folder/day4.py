@@ -14,8 +14,11 @@ for count in range(10):
 ########################################################################
 # Task 2:
 
-while True:
-    print("Hello there!")
+# while True:
+#     print("Hello there!")
+
+question = ""
+
 
 ########################################################################
 # Additional exercises:

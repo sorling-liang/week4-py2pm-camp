@@ -35,8 +35,10 @@ hidden_answer = "no idea"
 reply = "no"
 
 while score < 10:
-    question = "what is " + str(random.randint(1,10)) + "+" + str(random.randint(1,3)) + "? "
-    
+    num1 = random.randint(1,10)
+    num2 
+    question = "what is " + str() + "+" + str(random.randint(1,3)) + "? "
+    hidden_answer = num1 + num2
     reply = input(question)
     if reply == hidden_answer:
         print("you got it")

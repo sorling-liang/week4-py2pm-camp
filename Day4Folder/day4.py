@@ -35,6 +35,7 @@ hidden_answer = "no idea"
 reply = "no"
 
 while score < 10:
+    question = ra
     reply = input(question)
     if reply == hidden_answer:
         print("you got it")

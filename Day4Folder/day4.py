@@ -29,11 +29,12 @@ for count in range(10):
 #         print("wrong! try again.")
 
 import random
+score = 0
 question = "What do you call a deer with no eye?"
 hidden_answer = "no idea"
 reply = "no"
 
-while reply != hidden_answer:
+while score < 10:
     reply = input(question)
     if reply == hidden_answer:
         print("you got it")

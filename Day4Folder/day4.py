@@ -41,7 +41,7 @@ while score < 3:
     question = "what is " + str(num1) + "+" + str(num2) + "? "
     hidden_answer = num1 + num2
     reply = input(question)
-    if reply == hidden_answer:
+    if int(reply) == hidden_answer:
         print("you got it")
         score = score +1
     else:

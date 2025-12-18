@@ -37,7 +37,7 @@ reply = "no"
 while score < 10:
     num1 = random.randint(1,10)
     num2 = random.randint(1,3)
-    question = "what is " + str(num1) + "+" + str(random.randint(1,3)) + "? "
+    question = "what is " + str(num1) + "+" + str(num2) + "? "
     hidden_answer = num1 + num2
     reply = input(question)
     if reply == hidden_answer:

@@ -34,7 +34,7 @@ question = "What do you call a deer with no eye?"
 hidden_answer = "no idea"
 reply = "no"
 
-while score < 10:
+while score < 3:
     num1 = random.randint(1,10)
     num2 = random.randint(1,3)
     question = "what is " + str(num1) + "+" + str(num2) + "? "

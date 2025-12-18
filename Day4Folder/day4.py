@@ -34,6 +34,7 @@ question = "What do you call a deer with no eye?"
 hidden_answer = "no idea"
 reply = "no"
 
+print("you shall not pass unless you answer my math questions correctly")
 while score < 3:
     num1 = random.randint(1,10)
     num2 = random.randint(1,3)

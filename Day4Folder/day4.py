@@ -23,7 +23,10 @@ reply = ""
 
 while reply != hidden_answer:
     reply = input(question)
-    
+    if reply == hidden_answer:
+        print("you got it")
+    else:
+        print("wrong!")
 
 
 ########################################################################

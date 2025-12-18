@@ -38,8 +38,8 @@ print("you shall not pass unless you answer my math questions correctly")
 while score < 3:
     num1 = random.randint(1,10)
     num2 = random.randint(1,3)
-    question = "what is " + str(num1) + "+" + str(num2) + "? "
-    hidden_answer = num1 + num2
+    question = "what is " + str(num1) + "x" + str(num2) + "? "
+    hidden_answer = num1 * num2
     reply = input(question)
     if int(reply) == hidden_answer:
         print("you got it")

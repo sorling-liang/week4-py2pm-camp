@@ -19,7 +19,7 @@ for count in range(10):
 
 question = "What do you call a deer with no eye?"
 hidden_answer = "no idea"
-reply = ""
+reply = "no"
 
 while reply != hidden_answer:
     reply = input(question)

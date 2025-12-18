@@ -38,6 +38,7 @@ while score < 10:
     reply = input(question)
     if reply == hidden_answer:
         print("you got it")
+        score = score +1
     else:
         print("wrong! try again.")
 

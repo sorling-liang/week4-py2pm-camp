@@ -19,8 +19,8 @@ for count in range(10):
 
 question = "What do you call a deer with no eye?"
 hidden_answer = "no idea"
+reply = ""
 
-while h
 
 ########################################################################
 # Additional exercises:

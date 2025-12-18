@@ -17,7 +17,8 @@ for count in range(10):
 # while True:
 #     print("Hello there!")
 
-question = ""
+question = "What do you call a deer with no eye?"
+hidden_answer = "no idea"
 
 
 ########################################################################

@@ -17,6 +17,17 @@ for count in range(10):
 # while True:
 #     print("Hello there!")
 
+# question = "What do you call a deer with no eye?"
+# hidden_answer = "no idea"
+# reply = "no"
+
+# while reply != hidden_answer:
+#     reply = input(question)
+#     if reply == hidden_answer:
+#         print("you got it")
+#     else:
+#         print("wrong! try again.")
+
 question = "What do you call a deer with no eye?"
 hidden_answer = "no idea"
 reply = "no"
@@ -27,7 +38,6 @@ while reply != hidden_answer:
         print("you got it")
     else:
         print("wrong! try again.")
-
 
 ########################################################################
 # Additional exercises:

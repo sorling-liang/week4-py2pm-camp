@@ -28,6 +28,7 @@ for count in range(10):
 #     else:
 #         print("wrong! try again.")
 
+import random
 question = "What do you call a deer with no eye?"
 hidden_answer = "no idea"
 reply = "no"
